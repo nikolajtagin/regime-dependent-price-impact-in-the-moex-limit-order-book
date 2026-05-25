@@ -1,0 +1,2 @@
+model,states,emission_family,covariance_mode,student_t_df,logLik,parameters,observations,AIC,BIC,convergence_code,convergence_message
+"3-state Gaussian HMM, constant transitions",3,gaussian,full,,-3094155.32751098,24,955110,6188358.65502196,6188641.12498507,0,relative log-likelihood tolerance reached

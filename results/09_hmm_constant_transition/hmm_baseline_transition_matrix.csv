@@ -1,0 +1,10 @@
+from_state,to_state,probability
+Calm,Calm,0.643731970941709
+Calm,Normal,0.148228621543797
+Calm,Stressed,0.208039407514494
+Normal,Calm,0.138424768358608
+Normal,Normal,0.767017058312025
+Normal,Stressed,0.0945581733293675
+Stressed,Calm,0.348930733258528
+Stressed,Normal,0.0960461084401138
+Stressed,Stressed,0.555023158301358

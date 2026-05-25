@@ -1,0 +1,2 @@
+model,states,emission_family,covariance_mode,student_t_df,logLik,parameters,observations,AIC,BIC,convergence_code,convergence_message,response_variable,flow_variable,flow_scale
+"3-state Gaussian HMM, covariate transitions",3,gaussian,full,,-3074937.45617525,54,955110,6149982.91235049,6150618.46976748,0,relative log-likelihood tolerance reached,r_t_winsorized,ofi_depth_scaled,200.51435197473

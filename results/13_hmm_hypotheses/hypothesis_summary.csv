@@ -1,0 +1,5 @@
+hypothesis,diagnostic,result
+H1 entry into stressed liquidity,Average marginal effects in the calm-to-stressed transition equation.,abs_ofi_tilde: -0.0014; close_dummy: -0.0218; depth_tilde: -0.0504; open_dummy: -0.0352; rv_tilde: -0.0196
+H2 exit from stressed liquidity,Average marginal effects in the stressed-to-calm transition equation.,abs_ofi_tilde: -0.0339; close_dummy: -0.0254; depth_tilde: 0.0423; open_dummy: -0.0020; rv_tilde: -0.0531
+H3 directional session-boundary transition effects,Average marginal effects of open and close dummies for entry and recovery.,"close_dummy: entry -0.0218, exit -0.0254; open_dummy: entry -0.0352, exit -0.0020"
+H4 value added of covariate-driven transitions,"BIC comparison of constant-transition HMM and covariate-transition NHMM, including per-observation difference.",Constant-transition BIC 6188641.12; covariate-transition BIC 6150618.47; difference -38022.66; per observation -0.03981.
